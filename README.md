@@ -1,7 +1,8 @@
 # Face_Rec
 v0.1
 
-基于CSDN用户“就是这个七昂”的项目稍作调整：https://blog.csdn.net/qq_42633819/article/details/81191308
+基于CSDN用户“就是这个七昂”的项目稍作调整：https://blog.csdn.net/qq_42633819/article/details/81191308  
+新增功能：通过增加阈值，解决了二分类下人脸识别“非A即B”的问题，该版本对非库内人脸会提示“who are u”
 
 由于新版本的语法问题，整个项目基于以下老版本运行：  
 Tensorflow - 1.2.1  
